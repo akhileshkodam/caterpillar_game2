@@ -25,7 +25,7 @@ python Caterpillar.py
 ```
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/akhileshkodam/python-mini-project/blob/main/IMG/caterpillar.gif" width=70% height=70%>
+<img src="https://www.solidbackgrounds.com/images/1920x1080/1920x1080-yellow-solid-color-background.jpg" width=70% height=70%>
 
 ## 🤖 Author
 [Akhilesh Kodam](https://github.com/akhileshkodam)
